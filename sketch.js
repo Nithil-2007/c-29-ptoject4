@@ -32,7 +32,7 @@ function setup() {
     50,
     180
   );
-}
+  }
 
 function draw() {
   background(189);
